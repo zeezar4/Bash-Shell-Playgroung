@@ -2,6 +2,6 @@
 
 Name="Joe Shmo"
 Date=$(date +%F)
-Time=$(date +%t)
+Time=$(date +%T)
 
 echo "Hi there, My name is $Name todays, date is $Date and the time is $Time"
